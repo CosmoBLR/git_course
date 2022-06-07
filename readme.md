@@ -1,2 +1,2 @@
-# Git aand Giyhub Course
+# Git and Github Course
 
